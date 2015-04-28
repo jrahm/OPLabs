@@ -22,7 +22,7 @@ Router Development
 *Michael Williams*:
 Documentation
 
-*John Jones*
+*John Jones:*
 Documentation
 
 ### Target Audience ###
